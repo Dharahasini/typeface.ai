@@ -1,0 +1,10 @@
+Step 1: Start with content. As a starting point, we’ll write up raw text content and see what browsers do with it.
+
+Step 2: Give the document structure. You’ll learn about HTML element syntax and the elements that give a document its structure.
+
+Step 3: Identify text elements. You’ll describe the content using the appropriate text elements and learn about the proper way to use HTML.
+
+Step 4: Add an image. By adding an image to the page, you’ll learn about attributes and empty elements.
+
+Step 5: Change the page appearance with a style sheet. This exercise gives you a taste of formatting content with Cascading Style Sheets.
+we’ll be writing out HTML documents by hand, so the first thing we need to do is launch a text editor. The text editor that is provided with your operating system, such as Notepad (Windows) or TextEdit (Macintosh), will do for these purposes. Other text editors are fine as long as you can save plain-text files with the .html extension. If you have a WYSIWYG web-authoring tool such as Dreamweaver, set it aside for now. I want you to get a feel for marking up a document manually
